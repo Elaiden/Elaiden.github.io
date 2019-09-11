@@ -1,0 +1,41 @@
+body {
+    padding: 0 15%;
+    margin: 0;
+    background-image: url("background.jpg");
+}
+
+#header {
+    background-color: #35586C;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    padding-left: 15%;
+}
+
+#header h1 {
+    margin: 0;
+}
+
+#area51 {
+    padding-top: 20px;
+}
+
+textarea {
+    background-color: khaki;
+}
+
+.lastPost, .earlierPost {
+    border: solid;
+    padding: 0px;
+    margin: 10px 0;
+    background-color: dodgerblue;
+}
+
+.postTitle {
+    font-weight: bold;
+}
+
+.postContent {
+    padding-left: 5px;
+}
